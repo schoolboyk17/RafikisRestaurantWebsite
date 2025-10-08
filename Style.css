@@ -1,0 +1,16 @@
+h1 {
+    color: brown;
+    text-decoration: solid;
+    text-decoration: underline;
+    font-size: large;
+}
+
+p {
+    font-size: x-large;
+    font-weight: 400;
+}
+
+li {
+    font-size: larger;
+    font-weight: 400;
+}
